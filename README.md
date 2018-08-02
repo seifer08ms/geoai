@@ -1,2 +1,2 @@
 # GeoAI
-Python Tools for GeoSpatial AI
+GeoSpatial AI in Python 
